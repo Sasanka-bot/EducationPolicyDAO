@@ -22,7 +22,7 @@ The Education Policy DAO is designed to decentralize the process of creating and
 ```
 
 ## Contract Address
-*Contract Address:* [0xYourContractAddressHere](https://etherscan.io/address/0xYourContractAddressHere)
+*Contract Address:* 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
 
 The contract is deployed on the Ethereum blockchain at the address mentioned above. You can interact with it using Ethereum-compatible wallets such as MetaMask, and view the contract details on Etherscan.
 
@@ -51,7 +51,8 @@ The contract is deployed on the Ethereum blockchain at the address mentioned abo
 ### Contribution
 We welcome contributions to enhance the DAO. If you’re a developer, educator, or policymaker interested in contributing, feel free to fork the project and submit a pull request.
 
----
-
-This README provides an overview of the Education Policy DAO, outlining its vision, core functions, future enhancements, and how to interact with the contract. The flowchart simplifies the process flow, and the contract details provide essential technical information for users and contributors alike.
+## Developer Details
+- **Developer:** Sasanka Kashyap
+- **Email:** sasankakashyap59@gmail.com
+- **Github:** https://github.com/Sasanka-bot/EducationPolicyDAO
 
