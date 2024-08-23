@@ -56,4 +56,6 @@ We welcome contributions to enhance the DAO. If you’re a developer, educator, 
 - **Developer:** Sasanka Kashyap
 - **Email:** sasankakashyap59@gmail.com
 - **Github:** https://github.com/Sasanka-bot/EducationPolicyDAO
+- ![image](https://github.com/user-attachments/assets/722a4cd5-37ae-45a2-9653-bdece98bed15)
+
 
