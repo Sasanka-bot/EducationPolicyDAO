@@ -1,6 +1,7 @@
 ### README.md
 
 # Education Policy DAO
+![image](https://github.com/user-attachments/assets/9894cbed-d1a0-4037-b197-3bee8030a9d8)
 
 ## Vision
 The Education Policy DAO is designed to decentralize the process of creating and implementing educational policies. By leveraging blockchain technology, it empowers educators, students, and policymakers to collaboratively propose and vote on new policies. The DAO aims to create a transparent and community-driven approach to improving educational systems, ensuring that decisions reflect the collective voice of the community.
